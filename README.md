@@ -1,11 +1,11 @@
-formtastic-i18n
+Formtastic-I18n
 ===============
 
 Translations for **[Formtastic v2.3+]https://github.com/justinfrench/formtastic)**.
 
 ## Installation
 
-Simply add Formtastic-i18n to your Gemfile and bundle it up:
+Simply add Formtastic-I18n to your Gemfile and bundle it up:
 
     gem 'formtastic-i18n', github: 'BUS-OGD/formtastic-i18n', version: '~> 0.0.1'
     
@@ -23,4 +23,4 @@ Run bundle install:
 
 ## Copyright
 
-Copyright (c) 2014 OGD ict-diensten. See LICENSE for further details.
+Copyright (c) 2014 OGD ict-diensten. See [licence](./LICENSE) for further details.
