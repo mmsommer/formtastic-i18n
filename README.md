@@ -7,7 +7,7 @@ Translations for **[Formtastic v2.3+]https://github.com/justinfrench/formtastic)
 
 Simply add Formtastic-I18n to your Gemfile and bundle it up:
 
-    gem 'formtastic-i18n', github: 'BUS-OGD/formtastic-i18n', tag: 'v0.0.1'
+    gem 'formtastic-i18n', github: 'BUS-OGD/formtastic-i18n', tag: '0.0.1'
     
 Run bundle install:
 
